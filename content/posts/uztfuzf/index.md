@@ -1,10 +1,10 @@
 +++
-title = "uztfuzf"
+title = "tri"
 date = "2024-04-25"
 draft = false
 pinned = false
 +++
-u6ztfztf{{<lead.>}} ## Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mittlerweile die Mehrheit der Bevölkerung. Jedoch werden die Menschen mit Trisomie 21 oft noch von der Gesellschaft ausgegrenzt. {{}}
+Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mittlerweile die Mehrheit der Bevölkerung. Jedoch werden die Menschen mit Trisomie 21 oft noch von der Gesellschaft ausgegrenzt. 
 
 *Eine Reportage von Célestine Pfeuti und Abseera Nanthakumar*
 
