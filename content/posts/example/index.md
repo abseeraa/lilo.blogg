@@ -1,8 +1,8 @@
 +++
 title = "Trisomie 21: Mehr als nur ein genetischer Zustand eine Feier der Individualität"
 date = "2023-03-14"
-draft = false
-pinned = false
+draft = true
+pinned = true
 tags = []
 image = ""
 description = ""
