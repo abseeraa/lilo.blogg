@@ -1,4 +1,4 @@
-check_site()
+
 +++
 title = "oke"
 date = "2024-04-25"
