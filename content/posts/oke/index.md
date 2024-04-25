@@ -14,10 +14,4 @@ Im Aufenthaltsraum des Wohnheims Acherli stehen rote, bequeme Sofas und ein mit 
 
 ![]()
 
-### **Wohnheim Acherli** 
-
-Das Wohnheim Acherli, im Tscharnergut in Bern gelegen, gibt es bereits seit 30 Jahren. Es ist ein Wohnheim für Menschen mit einem Handicap. Auf der Homepage der Institution ist zu lesen, dass das Acherli Bewohner\*innen auf 12 Wohngruppen sowie drei Aussenwohngruppen und individuelle Betreuung, Begleitung, Förderung und Beratung anbietet. In den Wohngruppen werden alle Handicaps einzeln berücksichtigt. Die Wohngruppen sind gemütlich und einladend gestaltet. Es gibt eine grosse, senfgelbe Küche mit grosser  Metallwand, an der Bilder der WG Bewohner\*innen aufgehängt sind. Als Orientierungshilfe dienen liebevoll angebrachte farbige Sticker.  Zudem gibt es Essensbilder, die an Magnetknöpfen geklebt sind. Wenn die Knöpfe gedrückt werden ist eine weibliche Stimme zu hören: » Für Person XY gibt es heute Fleischbällchen mit Kartoffeln zum Mittagessen’’. Gemäss Olivier werden die Aufnahmen täglich neu aufgenommen. Für die Künstler*innen im Wohnheim gibt es zudem ein Atelier, mit der Möglichkeit Bilder auszustellen. Die Kunstwerke können zudem zwei Mal pro Jahr am Acherli-Märit zum Kauf angeboten werden. 
-
 ![]()
-
-### **Schauen dich Leute manchmal komisch an?: ,, Ja manchmal, aber ich mach mir nichts draus’’**
