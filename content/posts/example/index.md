@@ -15,7 +15,7 @@ Die genetische Störung bekannt als ,,Down Syndrom’’ kennt mittlerweile die 
 
 {{</lead>}}
 
-\
+
 Im Aufenthaltsraum des Wohnheims Acherli stehen rote, bequeme Sofas und ein mit Herzen geschmückter Baum für den Valentinstag, es herrscht eine warme Stimmung. Die Frau im Sekretariat teilt mit, dass die Interviewpartnerin gleich kommen solle. Einige Sekunden später treffen Olivier, ein Betreuer im Wohnheim, und Pia, die Interviewpartnerin und zudem Bewohnerin ein. Nach der Begrüssung geht Olivier vor und zeigt den Weg bis zum Aufzug. Im Aufzug sind alle Stöcke mit farbigen Stickern beklebt. Pia drückt auf den 2. Stock mit dem blauen Sticker drauf. ,,Pikettzimmer’’, so ist das Zimmer angeschrieben, bei dem Olivier die Tür offen hält.
 
 ![(Abblidung 1): Bild des Warteraums. (Abseera und Célestine)](img_1404.jpeg)
@@ -38,7 +38,7 @@ Gene enthalten den Bauplan des Menschens, sie bestimmen das Aussehen eines Lebew
 
 Erst 1959 entdeckten französische Wissenschaftler, dass Menschen mit Down-Syndrom 47 Chromosomen anstelle der üblichen 46 besitzen und Chromosom 21 dreifach vorhanden ist. Dieser Fehler tritt während der Bildung von Keimzellen auf, wenn eine fehlerhafte Meiose dazu führt, dass Keimzellen das Chromosom 21 zweimal enthalten und somit 24 Chromosomen haben. Bei der Befruchtung einer solchen Keimzelle mit einer normalen entsteht ein Kind mit Trisomie 21, das 47 Chromosomen hat. Es gibt verschiedene Formen der Trisomie 21, die auftreten können. Die freie Trisomie 21 ist die häufigste und tritt bei 95% der Menschen mit Down-Syndrom auf. Daneben gibt es das Mosaik-Trisomie 21, das nur in 1-2% der Fälle vorkommt. Sehr selten ist die partielle Trisomie 21, von der weltweit 100 Fälle bekannt sind. In 3-4% der Fälle liegt eine Translokations-Trisomie 21 vor.
 
-![]()
+
 
 Die Behinderung ist häufig mit Hör- und Sehstörungen verbunden, die den Kinder Kommunikationsschwierigkeiten bereiten. Ausserdem sind Herzerkrankungen und Störungen im Verdauungstrakt nicht ungewöhnlich. In der Regel leiden Kinder unter Zöliakie und Autoimmunerkrankungen wie Typ-1-Diabetes. Ebenfalls treten häufig Infektionen in den Atemwegen auf, weil das Immunsystem unterentwickelt ist. Bei Betroffenen tritt häufiger Leukämie, eine Form von Blutkrebs, auf. Zudem sind bestimmte Muskeln im Gesicht nicht vorhanden, häufig leiden sie unter Schlafapnoe, einer wiederholten, kurzen Unterbrechung der Atmung während des Schlafens. Bei Kindern werden oftmals psychiatrische Erkrankungen diagnostiziert. Dazu gehören Hyperaktivität, Zwangsstörungen sowie Angststörungen.
 
